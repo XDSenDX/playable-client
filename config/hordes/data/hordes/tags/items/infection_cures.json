@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "meds_and_herbs:syringe_antidote",
+    "meds_and_herbs:syringe_hpa"
+  ]
+}
