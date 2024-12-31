@@ -60,8 +60,10 @@
 	#Enable or disable compatibility with the Aether mod. Link: https://www.curseforge.com/minecraft/mc-mods/aether
 	#Note: This feature is disabled by default because you can't use flint and steel in the Aether dimension.
 	Aether_mod_compatibility = false
+	#Enable or disable compatibility with the CrockPot mod. Link: https://www.curseforge.com/minecraft/mc-mods/crock-pot
+	Crock_Pot_mod_compatibility = true
 
 ["Extra Settings"]
-	#If true, campfires placed by the player will not be lit by default.
+	#If true, campfires placed by the player will not be lit.
 	Place_Campfires_Unlit = true
 
