@@ -1,0 +1,7 @@
+
+["闪避配置"]
+	#是否启用玩家闪避音效
+	enable_dodge_sound = false
+	#是否启用玩家闪避成功音效
+	enable_dodgesuccess_sound = true
+
