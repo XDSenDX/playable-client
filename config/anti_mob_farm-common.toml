@@ -29,4 +29,5 @@
 	GATEWAYS_MOB_CHANCE_TO_NOT_PROC_PENALTY = 75.0
 	excluded_dimensions = ["mmorpg:dungeon"]
 	excluded_entities = []
+	ONLY_AFFECT_MOBS_KILLED_BY_PLAYER = true
 

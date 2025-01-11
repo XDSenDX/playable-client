@@ -1,5 +1,0 @@
-#Thu Nov 14 11:29:47 ICT 2024
-shadowDistance=192.0
-LIGHT_SHAFT=false
-shadowMapResolution=1536
-SHADOW_COLOR=false

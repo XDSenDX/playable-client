@@ -7,8 +7,8 @@ disable_crowdin = false
 check_for_updates = true
 
 [host]
-ip = "0.0.0.0"
-port = 0
+ip = "139.99.124.9"
+port = 25560
 
 [voice]
 # Supported sample rates:
@@ -23,8 +23,8 @@ client_mod_required = false
 client_mod_required_check_timeout_ms = 3000
 
 [voice.proximity]
-distances = [8, 16, 32]
-default_distance = 16
+distances = [8, 16, 20]
+default_distance = 20
 
 [voice.opus]
 # Opus application mode

@@ -21,6 +21,7 @@
 	first_person_model = true
 	battle_autoswitch_items = []
 	mining_autoswitch_items = []
+	firstPersonRenderEnabled = true
 
 	[ingame.ui]
 		stamina_bar_x = 120
