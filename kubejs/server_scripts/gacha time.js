@@ -239,3 +239,10 @@ LootJS.modifiers((event) => {
 			
         ]);
 });
+
+LootJS.modifiers((event) => {
+    event.addEntityLootModifier("minecraft:sheep")
+	.removeLoot("#minecraft:wool");
+	
+	/// remove wool drop from killing	
+});

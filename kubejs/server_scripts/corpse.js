@@ -217,10 +217,7 @@ LootJS.modifiers((event) => {
     event.addEntityLootModifier("meadow:wooly_cow").removeLoot("minecraft:leather");
 	/// remove cow leather
 });
-LootJS.modifiers((event) => {
-    event.addEntityLootModifier("meadow:water_buffalo").removeLoot("meadow:raw_buffalo_meat");
-	/// remove cow leather
-});
+
   LootJS.modifiers((event) => {
     event.addEntityLootModifier("meadow:water_buffalo").removeLoot("minecraft:leather");
 	/// remove water buffalo leather
